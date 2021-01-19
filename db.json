@@ -18,12 +18,12 @@
     ],
     "mk": [
         {
-            "name": "SEDAN-HATCH-LCGC",
+            "name": "PICKUP-LCGC",
             "code": "MB1",
             "status": "active"
         },
         {
-            "name": "MINIBUS-PICKUP",
+            "name": "MINIBUS-SEDAN-HATCHBACK",
             "code": "MB2",
             "status": "active"
         },
