@@ -1,41 +1,43 @@
 {
-    "keys":"MT",
-    "values":[
-      {
-        "name":"MOTOR <150",
-        "code":"MT1",
-        "status":"active"
-      },
-      {
-        "name":"MOTOR <250",
-        "code":"MT2",
-        "status":"active"
-      },
-      {
-        "name":"MOTOR >250",
-        "code":"MT3",
-        "status":"active"
-      },
-    ]
-  }
-  {
-    "keys":"MB",
-    "values":[
-      {
-        "name":"SEDAN-HATCH-LCGC",
-        "code":"MB1",
-        "status":"active"
-      },
-      {
-        "name":"MINIBUS-PICKUP",
-        "code":"MB2",
-        "status":"active"
-      },
-      {
-        "name":"TRUK",
-        "code":"MB3",
-        "status":"active"
-      },
-    ]
-  }
-
+    "spot":"04HDFAbfiajABIAF",
+    "mb": {
+        "keys": "MB",
+        "values": [
+            {
+                "name": "150",
+                "code": "MB1",
+                "status": "active"
+            },
+            {
+                "name": "250",
+                "code": "MB2",
+                "status": "active"
+            },
+            {
+                "name": "250 UP",
+                "code": "MB3",
+                "status": "active"
+            }
+        ]
+    },
+    "mk": {
+        "keys": "MK",
+        "values": [
+            {
+                "name": "SEDAN-HATCH-LCGC",
+                "code": "MB1",
+                "status": "active"
+            },
+            {
+                "name": "MINIBUS-PICKUP",
+                "code": "MB2",
+                "status": "active"
+            },
+            {
+                "name": "TRUK",
+                "code": "MB3",
+                "status": "active"
+            }
+        ]
+    }
+}
