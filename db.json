@@ -1,8 +1,6 @@
 {
     "spot":"04HDFAbfiajABIAF",
-    "mb": {
-        "keys": "MB",
-        "values": [
+    "mb": [
             {
                 "name": "150",
                 "code": "MB1",
@@ -18,11 +16,9 @@
                 "code": "MB3",
                 "status": "active"
             }
-        ]
-    },
-    "mk": {
-        "keys": "MK",
-        "values": [
+        ],
+
+    "mk": [
             {
                 "name": "SEDAN-HATCH-LCGC",
                 "code": "MB1",
@@ -39,5 +35,5 @@
                 "status": "active"
             }
         ]
-    }
+    
 }
