@@ -1,39 +1,37 @@
 {
-    "spot":"04HDFAbfiajABIAF",
+    "spot": "04HDFAbfiajABIAF",
     "mb": [
-            {
-                "name": "150",
-                "code": "MB1",
-                "status": "active"
-            },
-            {
-                "name": "250",
-                "code": "MB2",
-                "status": "active"
-            },
-            {
-                "name": "250 UP",
-                "code": "MB3",
-                "status": "active"
-            }
-        ],
-
+        {
+            "name": "150",
+            "code": "MB1",
+            "status": "active"
+        },
+        {
+            "name": "250",
+            "code": "MB2",
+            "status": "active"
+        },
+        {
+            "name": "250 UP",
+            "code": "MB3",
+            "status": "active"
+        }
+    ],
     "mk": [
-            {
-                "name": "SEDAN-HATCH-LCGC",
-                "code": "MB1",
-                "status": "active"
-            },
-            {
-                "name": "MINIBUS-PICKUP",
-                "code": "MB2",
-                "status": "active"
-            },
-            {
-                "name": "TRUK",
-                "code": "MB3",
-                "status": "active"
-            }
-        ]
-    
+        {
+            "name": "SEDAN-HATCH-LCGC",
+            "code": "MB1",
+            "status": "active"
+        },
+        {
+            "name": "MINIBUS-PICKUP",
+            "code": "MB2",
+            "status": "active"
+        },
+        {
+            "name": "TRUK",
+            "code": "MB3",
+            "status": "active"
+        }
+    ]
 }
