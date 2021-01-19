@@ -1,5 +1,4 @@
 {
-  {
     "keys":"MT",
     "values":[
       {
@@ -39,26 +38,4 @@
       },
     ]
   }
-  {
-    "keys":"X",
-    "values":[
-      {
-        "name":"SPEEDBOAT",
-        "code":"X1",
-        "status":"active"
-      },
-      {
-        "name":"HELICOPTER",
-        "code":"X2",
-        "status":"active"
-      },
-      {
-        "name":"MOTOR >250",
-        "code":"MT3",
-        "status":"active"
-      },
-    ]
-  }
-
-}
 
