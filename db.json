@@ -1,14 +1,64 @@
 {
-  "printers": [
-    { 
-      "printer_id": 123, 
-      "title": "panda",
-      "printer_product_id":123123
-    },
-    { 
-      "printer_id": 123, 
-      "title": "epson",
-      "printer_product_id":1212
-    }
-  ]
+  {
+    "keys":"MT",
+    "values":[
+      {
+        "name":"MOTOR <150",
+        "code":"MT1",
+        "status":"active"
+      },
+      {
+        "name":"MOTOR <250",
+        "code":"MT2",
+        "status":"active"
+      },
+      {
+        "name":"MOTOR >250",
+        "code":"MT3",
+        "status":"active"
+      },
+    ]
+  }
+  {
+    "keys":"MB",
+    "values":[
+      {
+        "name":"SEDAN-HATCH-LCGC",
+        "code":"MB1",
+        "status":"active"
+      },
+      {
+        "name":"MINIBUS-PICKUP",
+        "code":"MB2",
+        "status":"active"
+      },
+      {
+        "name":"TRUK",
+        "code":"MB3",
+        "status":"active"
+      },
+    ]
+  }
+  {
+    "keys":"X",
+    "values":[
+      {
+        "name":"SPEEDBOAT",
+        "code":"X1",
+        "status":"active"
+      },
+      {
+        "name":"HELICOPTER",
+        "code":"X2",
+        "status":"active"
+      },
+      {
+        "name":"MOTOR >250",
+        "code":"MT3",
+        "status":"active"
+      },
+    ]
+  }
+
 }
+
