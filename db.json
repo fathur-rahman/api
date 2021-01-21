@@ -26,21 +26,21 @@
             "name": "PICKUP-LCGC",
             "code": "MB1",
             "status": "active",
-                "spot":"123123-123123"
+            "spot":"123123-123123"
 
         },
         {
             "name": "MINIBUS-SEDAN-HATCHBACK",
             "code": "MB2",
             "status": "active",
-                "spot":"123123-123123"
+            "spot":"123123-123123"
 
         },
         {
             "name": "TRUK",
             "code": "MB3",
             "status": "active",
-                "spot":"123123-123123"
+            "spot":"123123-123123"
 
         }
     ]
