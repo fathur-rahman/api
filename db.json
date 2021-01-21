@@ -1,37 +1,47 @@
 {   
-    "spot":"123123-123123",
     "mb": [
         {
             "name": "150",
             "code": "MB1",
-            "status": "active"
+            "status": "active",
+            "spot":"123123-123123"
+
         },
         {
             "name": "250",
             "code": "MB2",
-            "status": "active"
+            "status": "active",
+            "spot":"123123-123123"
+
         },
         {
             "name": "250 UP",
             "code": "MB3",
-            "status": "active"
+            "status": "active",
+            "spot":"123123-123123"
         }
     ],
     "mk": [
         {
             "name": "PICKUP-LCGC",
             "code": "MB1",
-            "status": "active"
+            "status": "active",
+                "spot":"123123-123123"
+
         },
         {
             "name": "MINIBUS-SEDAN-HATCHBACK",
             "code": "MB2",
-            "status": "active"
+            "status": "active",
+                "spot":"123123-123123"
+
         },
         {
             "name": "TRUK",
             "code": "MB3",
-            "status": "active"
+            "status": "active",
+                "spot":"123123-123123"
+
         }
     ]
 }
